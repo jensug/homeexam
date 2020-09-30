@@ -1,0 +1,6 @@
+Failed to bind UDP
+
+Creating node with adress: 32
+With 4 neighbours: 8:1 16:2 128:2 256:4 
+
+Setting up UDP socket

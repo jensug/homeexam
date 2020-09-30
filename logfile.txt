@@ -1,0 +1,223 @@
+[1] CREATE PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[1] CREATE PKT len 38 src 2 dst 1 FLG 0 msg Thorough bush, thorough brier,  
+[2] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[2] RCV PKT len 38 src 2 dst 1 FLG 0 msg Thorough bush, thorough brier,  
+[1] CREATE PKT len 29 src 8 dst 1 FLG 0 msg Over park, over pale,  
+[8] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[2] FWD PKT len 29 src 8 dst 1 FLG 0 msg Over park, over pale,  
+[1] CREATE PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[1] CREATE PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[32] RCV PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[1] CREATE PKT len 39 src 4 dst 1 FLG 0 msg Swifter than the moon's sphere;  
+[4] FWD PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[2] FWD PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[1] CREATE PKT len 36 src 2 dst 1 FLG 0 msg And I serve the Fairy Queen,  
+[8] RCV PKT len 29 src 8 dst 1 FLG 0 msg Over park, over pale,  
+[4] RCV PKT len 39 src 4 dst 1 FLG 0 msg Swifter than the moon's sphere;  
+[16] FWD PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[1] CREATE PKT len 39 src 16 dst 1 FLG 0 msg To dew her orbs upon the green;  
+[8] FWD PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[2] RCV PKT len 36 src 2 dst 1 FLG 0 msg And I serve the Fairy Queen,  
+[4] FWD PKT len 39 src 16 dst 1 FLG 0 msg To dew her orbs upon the green;  
+[1] CREATE PKT len 44 src 16 dst 1 FLG 0 msg The cowslips tall her pensioners be;  
+[64] RCV PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[32] RCV PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[16] RCV PKT len 39 src 16 dst 1 FLG 0 msg To dew her orbs upon the green;  
+[1] CREATE PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[4] FWD PKT len 44 src 16 dst 1 FLG 0 msg The cowslips tall her pensioners be;  
+[1] CREATE PKT len 39 src 8 dst 1 FLG 0 msg Those be rubies, fairy favours;  
+[4] FWD PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[16] RCV PKT len 44 src 16 dst 1 FLG 0 msg The cowslips tall her pensioners be;  
+[1] CREATE PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[2] FWD PKT len 39 src 8 dst 1 FLG 0 msg Those be rubies, fairy favours;  
+[16] FWD PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[1] CREATE PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[4] FWD PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[64] RCV PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[8] RCV PKT len 39 src 8 dst 1 FLG 0 msg Those be rubies, fairy favours;  
+[1] CREATE PKT len 47 src 4 dst 1 FLG 0 msg And hang a pearl in every cowslip's ear. 
+[2] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[1] CREATE PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[4] RCV PKT len 47 src 4 dst 1 FLG 0 msg And hang a pearl in every cowslip's ear. 
+[16] FWD PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[8] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[1] CREATE PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[4] FWD PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[32] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[1] CREATE PKT len 11 src 16 dst 1 FLG 0 msg QUIT 
+[256] RCV PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[4] FWD PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[2] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[16] FWD PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[16] FWD PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 8 dst 1 FLG 0 msg QUIT 
+[4] FWD PKT len 11 src 16 dst 1 FLG 0 msg QUIT 
+[8] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[64] RCV PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[2] FWD PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[128] RCV PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[32] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 2 dst 1 FLG 0 msg QUIT 
+[2] FWD PKT len 11 src 8 dst 1 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 4 dst 1 FLG 0 msg QUIT 
+[16] RCV PKT len 11 src 16 dst 1 FLG 0 msg QUIT 
+[2] RCV PKT len 11 src 2 dst 1 FLG 0 msg QUIT 
+[128] RCV PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[256] RCV PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[8] FWD PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 1 dst 1 FLG 0 msg QUIT 
+[1] RCV PKT len 11 src 1 dst 1 FLG 0 msg QUIT 
+[4] RCV PKT len 11 src 4 dst 1 FLG 0 msg QUIT 
+[8] RCV PKT len 11 src 8 dst 1 FLG 0 msg QUIT 
+[32] RCV PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 46 src 13 dst 1 FLG 0 msg A Very Short Story by Ernest Hemingway  
+[1] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[1] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[1] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[1] FWD PKT len 38 src 2 dst 1 FLG 0 msg Thorough bush, thorough brier,  
+[1] FWD PKT len 29 src 8 dst 1 FLG 0 msg Over park, over pale,  
+[2] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[1] FWD PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[1] FWD PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[2] RCV PKT len 38 src 2 dst 1 FLG 0 msg Thorough bush, thorough brier,  
+[1] FWD PKT len 39 src 4 dst 1 FLG 0 msg Swifter than the moon's sphere;  
+[8] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[4] FWD PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[2] FWD PKT len 29 src 8 dst 1 FLG 0 msg Over park, over pale,  
+[1] FWD PKT len 36 src 2 dst 1 FLG 0 msg And I serve the Fairy Queen,  
+[4] RCV PKT len 39 src 4 dst 1 FLG 0 msg Swifter than the moon's sphere;  
+[32] RCV PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[16] FWD PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[1] FWD PKT len 39 src 16 dst 1 FLG 0 msg To dew her orbs upon the green;  
+[2] FWD PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[8] RCV PKT len 29 src 8 dst 1 FLG 0 msg Over park, over pale,  
+[64] RCV PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[1] FWD PKT len 44 src 16 dst 1 FLG 0 msg The cowslips tall her pensioners be;  
+[2] RCV PKT len 36 src 2 dst 1 FLG 0 msg And I serve the Fairy Queen,  
+[4] FWD PKT len 39 src 16 dst 1 FLG 0 msg To dew her orbs upon the green;  
+[8] FWD PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[1] FWD PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[1] FWD PKT len 39 src 8 dst 1 FLG 0 msg Those be rubies, fairy favours;  
+[4] FWD PKT len 44 src 16 dst 1 FLG 0 msg The cowslips tall her pensioners be;  
+[16] RCV PKT len 39 src 16 dst 1 FLG 0 msg To dew her orbs upon the green;  
+[4] FWD PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[32] RCV PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[16] RCV PKT len 44 src 16 dst 1 FLG 0 msg The cowslips tall her pensioners be;  
+[1] FWD PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[16] FWD PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[2] FWD PKT len 39 src 8 dst 1 FLG 0 msg Those be rubies, fairy favours;  
+[1] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[4] FWD PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[8] RCV PKT len 39 src 8 dst 1 FLG 0 msg Those be rubies, fairy favours;  
+[64] RCV PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[1] FWD PKT len 47 src 4 dst 1 FLG 0 msg And hang a pearl in every cowslip's ear. 
+[2] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[16] FWD PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[1] FWD PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[4] RCV PKT len 47 src 4 dst 1 FLG 0 msg And hang a pearl in every cowslip's ear. 
+[1] FWD PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[8] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[1] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[256] RCV PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[1] FWD PKT len 11 src 16 dst 1 FLG 0 msg QUIT 
+[4] FWD PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[32] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[2] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[4] FWD PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[128] RCV PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[16] FWD PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[8] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[4] FWD PKT len 11 src 16 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 11 src 8 dst 1 FLG 0 msg QUIT 
+[16] FWD PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[64] RCV PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[2] FWD PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[256] RCV PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[16] RCV PKT len 11 src 16 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 11 src 2 dst 1 FLG 0 msg QUIT 
+[2] FWD PKT len 11 src 8 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 11 src 4 dst 1 FLG 0 msg QUIT 
+[32] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[1] RCV PKT len 11 src 1 dst 1 FLG 0 msg QUIT 
+[8] FWD PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[4] RCV PKT len 11 src 4 dst 1 FLG 0 msg QUIT 
+[128] RCV PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[2] RCV PKT len 11 src 2 dst 1 FLG 0 msg QUIT 
+[32] RCV PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[8] RCV PKT len 11 src 8 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[1] FWD PKT len 38 src 2 dst 1 FLG 0 msg Thorough bush, thorough brier,  
+[2] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[1] FWD PKT len 29 src 8 dst 1 FLG 0 msg Over park, over pale,  
+[2] RCV PKT len 38 src 2 dst 1 FLG 0 msg Thorough bush, thorough brier,  
+[1] FWD PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[8] FWD PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[2] FWD PKT len 29 src 8 dst 1 FLG 0 msg Over park, over pale,  
+[1] FWD PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[4] FWD PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[32] RCV PKT len 29 src 32 dst 1 FLG 0 msg Over hill, over dale,  
+[1] FWD PKT len 39 src 4 dst 1 FLG 0 msg Swifter than the moon's sphere;  
+[2] FWD PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[8] RCV PKT len 29 src 8 dst 1 FLG 0 msg Over park, over pale,  
+[1] FWD PKT len 36 src 2 dst 1 FLG 0 msg And I serve the Fairy Queen,  
+[16] FWD PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[8] FWD PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[4] RCV PKT len 39 src 4 dst 1 FLG 0 msg Swifter than the moon's sphere;  
+[1] FWD PKT len 39 src 16 dst 1 FLG 0 msg To dew her orbs upon the green;  
+[2] RCV PKT len 36 src 2 dst 1 FLG 0 msg And I serve the Fairy Queen,  
+[1] FWD PKT len 44 src 16 dst 1 FLG 0 msg The cowslips tall her pensioners be;  
+[1] FWD PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[4] FWD PKT len 39 src 16 dst 1 FLG 0 msg To dew her orbs upon the green;  
+[32] RCV PKT len 31 src 32 dst 1 FLG 0 msg I do wander everywhere,  
+[64] RCV PKT len 38 src 64 dst 1 FLG 0 msg Thorough flood, thorough fire!  
+[1] FWD PKT len 39 src 8 dst 1 FLG 0 msg Those be rubies, fairy favours;  
+[1] FWD PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[4] FWD PKT len 44 src 16 dst 1 FLG 0 msg The cowslips tall her pensioners be;  
+[2] FWD PKT len 39 src 8 dst 1 FLG 0 msg Those be rubies, fairy favours;  
+[16] RCV PKT len 39 src 16 dst 1 FLG 0 msg To dew her orbs upon the green;  
+[4] FWD PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[1] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[4] FWD PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[16] RCV PKT len 44 src 16 dst 1 FLG 0 msg The cowslips tall her pensioners be;  
+[8] RCV PKT len 39 src 8 dst 1 FLG 0 msg Those be rubies, fairy favours;  
+[16] FWD PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[1] FWD PKT len 47 src 4 dst 1 FLG 0 msg And hang a pearl in every cowslip's ear. 
+[2] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[16] FWD PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[64] RCV PKT len 42 src 64 dst 1 FLG 0 msg In their gold coats spots you see;  
+[1] FWD PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[4] RCV PKT len 47 src 4 dst 1 FLG 0 msg And hang a pearl in every cowslip's ear. 
+[1] FWD PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[256] RCV PKT len 45 src 256 dst 1 FLG 0 msg In those freckles live their savours;  
+[8] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[4] FWD PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 11 src 16 dst 1 FLG 0 msg QUIT 
+[4] FWD PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[2] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[16] FWD PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[32] FWD PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[1] FWD PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[4] FWD PKT len 11 src 16 dst 1 FLG 0 msg QUIT 
+[16] FWD PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[64] RCV PKT len 11 src 64 dst 1 FLG 0 msg QUIT 
+[8] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 11 src 8 dst 1 FLG 0 msg QUIT 
+[2] FWD PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[8] FWD PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[256] RCV PKT len 11 src 256 dst 1 FLG 0 msg QUIT 
+[32] FWD PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[128] RCV PKT len 42 src 128 dst 1 FLG 0 msg I must go seek some dewdrops here,  
+[16] RCV PKT len 11 src 16 dst 1 FLG 0 msg QUIT 
+[2] FWD PKT len 11 src 8 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 11 src 2 dst 1 FLG 0 msg QUIT 
+[1] FWD PKT len 11 src 4 dst 1 FLG 0 msg QUIT 
+[128] RCV PKT len 11 src 128 dst 1 FLG 0 msg QUIT 
+[32] RCV PKT len 11 src 32 dst 1 FLG 0 msg QUIT 
+[2] RCV PKT len 11 src 2 dst 1 FLG 0 msg QUIT 
+[1] RCV PKT len 11 src 1 dst 1 FLG 0 msg QUIT 
+[8] RCV PKT len 11 src 8 dst 1 FLG 0 msg QUIT 
+[4] RCV PKT len 11 src 4 dst 1 FLG 0 msg QUIT 
